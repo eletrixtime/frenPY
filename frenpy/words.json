@@ -45,5 +45,6 @@
     "toutes": "all",
     "n'importe lequel": "any",
     "plage": "range",
-    "type": "type"
+    "type": "type",
+    "isoler":"strip"
 }
